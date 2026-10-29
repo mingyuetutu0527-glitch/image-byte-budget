@@ -1,4 +1,4 @@
-﻿file_type,source_px,source_bytes,jpg_px,jpg_quality_pct,webp_bytes,webp_px,webp_quality_pct,what_changed
+file_type,source_px,source_bytes,jpg_px,jpg_quality_pct,webp_bytes,webp_px,webp_quality_pct,what_changed
 Scan (24.00 MP PNG),,1297068,675x1013,40.47,101962,690x1035,48.44,"+4.4% pixels; the one content type where WebP buys almost nothing in area"
 Text page (7.68 MP PNG),,1217095,730x973,40.47,101762,828x1104,40.47,"+28.7% pixels"
 Flat graphic (16.00 MP PNG),4000x4000,84394,3139x3139,40.47,89376,4000x4000,99.53,"+62.4% pixels at 5,000 more bytes; WebP held the full frame"

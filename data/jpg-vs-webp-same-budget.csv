@@ -1,4 +1,4 @@
-﻿target,target_bytes,jpg_bytes,jpg_px,jpg_megapixels,jpg_quality_pct,webp_bytes,webp_px,webp_megapixels,webp_quality_pct,pixels_gained_pct
+target,target_bytes,jpg_bytes,jpg_px,jpg_megapixels,jpg_quality_pct,webp_bytes,webp_px,webp_megapixels,webp_quality_pct,pixels_gained_pct
 20 KB,20480,20341,452x679,0.307,40.47,20318,534x801,0.428,40.00,39.4
 50 KB,51200,50575,720x1079,0.777,40.47,50588,846x1269,1.074,40.94,38.2
 100 KB,102400,102207,1031x1547,1.595,40.47,102394,1209x1814,2.193,40.94,37.5

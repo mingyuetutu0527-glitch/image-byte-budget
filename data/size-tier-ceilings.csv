@@ -1,4 +1,4 @@
-﻿target,ceiling_bytes,source_file,output_px,output_megapixels,output_bytes,quality_pct,source_url,note
+target,ceiling_bytes,source_file,output_px,output_megapixels,output_bytes,quality_pct,source_url,note
 20 KB,20480,905 KB 2592x1944 JPEG,630x472,0.30,,40,https://crunchimage.com/compress-image-to-20kb,"page reports the output as 19.7 KB; 0.3 MP is the page's own rounding"
 50 KB,51200,24 MP original,720x1079,0.777,,,https://crunchimage.com/compress-image-to-50kb,"page gives a 750,000-795,000 pixel band across sources; this row is the 24 MP case"
 100 KB,102400,3.33 MB 4000x6000 JPEG,1031x1547,1.595,102207,40.47,https://crunchimage.com/compress-image-to-webp,"same run as the 100 KB row of jpg-vs-webp-same-budget.csv"
