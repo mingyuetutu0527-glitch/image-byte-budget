@@ -1,0 +1,10 @@
+﻿target,ceiling_bytes,source_file,output_px,output_megapixels,output_bytes,quality_pct,source_url,note
+20 KB,20480,905 KB 2592x1944 JPEG,630x472,0.30,,40,https://crunchimage.com/compress-image-to-20kb,"page reports the output as 19.7 KB; 0.3 MP is the page's own rounding"
+50 KB,51200,24 MP original,720x1079,0.777,,,https://crunchimage.com/compress-image-to-50kb,"page gives a 750,000-795,000 pixel band across sources; this row is the 24 MP case"
+100 KB,102400,3.33 MB 4000x6000 JPEG,1031x1547,1.595,102207,40.47,https://crunchimage.com/compress-image-to-webp,"same run as the 100 KB row of jpg-vs-webp-same-budget.csv"
+200 KB,204800,3.33 MB 4000x6000 JPEG,1447x2170,3.14,203474,40.5,https://crunchimage.com/compress-image-to-200kb,"a 6 MP source returned 1432x2148 at the same target"
+300 KB,307200,3.33 MB 4000x6000 JPEG,1796x2694,4.84,306526,40.5,https://crunchimage.com/compress-image-to-300kb,"674 bytes under the 307,200-byte ceiling"
+500 KB,512000,3.33 MB 4000x6000 JPEG,2367x3551,8.41,511210,40.5,https://crunchimage.com/compress-image-to-500kb,
+1000 KB,1024000,3.33 MB 4000x6000 JPEG,3629x5443,19.75,1044689,40.5,https://crunchimage.com/compress-image-to-1mb,"16 MP source kept every pixel at 48.4% quality; 6 MP source at 83.1%"
+2000 KB,2048000,3.33 MB 4000x6000 JPEG,4000x6000,24.000,2057030,72.3,https://crunchimage.com/compress-image-to-2mb,"2048 KB is the mebibyte reading; 1953 KB is the setting if the form means 2,000,000 bytes"
+5120 KB,5242880,19 MB PNG 4000x6000,4000x6000,24.000,5191926,97.2,https://crunchimage.com/compress-image-to-5mb,"a 3.33 MB phone photo at the same target came back untouched in 0 ms"

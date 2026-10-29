@@ -1,0 +1,8 @@
+﻿file_type,source_px,source_bytes,jpg_px,jpg_quality_pct,webp_bytes,webp_px,webp_quality_pct,what_changed
+Scan (24.00 MP PNG),,1297068,675x1013,40.47,101962,690x1035,48.44,"+4.4% pixels; the one content type where WebP buys almost nothing in area"
+Text page (7.68 MP PNG),,1217095,730x973,40.47,101762,828x1104,40.47,"+28.7% pixels"
+Flat graphic (16.00 MP PNG),4000x4000,84394,3139x3139,40.47,89376,4000x4000,99.53,"+62.4% pixels at 5,000 more bytes; WebP held the full frame"
+Cut-out (12.96 MP PNG),3600x3600,62081,3600x3600,48.44,49862,3600x3600,99.53,"half the bytes, alpha kept; no pixel change in either format"
+Gradient (3.84 MP PNG),2400x1600,2537877,2400x1600,76.09,90876,2400x1600,87.81,"+11.7 quality points at the same dimensions"
+Product shot (4.00 MP JPG),2000x2000,117632,2000x2000,99.06,24384,2000x2000,99.53,"71.8% fewer bytes"
+Small photo (1.50 MP JPG),,417234,998x1497,44.22,101954,1000x1500,47.97,"full frame instead of 998 pixels wide"
